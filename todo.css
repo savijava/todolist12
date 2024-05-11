@@ -1,0 +1,19 @@
+.addnew{
+    font-size: 20px;
+    font-weight: 400;
+}
+.cards{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    row-gap: 50px;
+}
+.card1,.card2,.card3,.card4,.card5{
+    height: 200px;
+    width: 200px;
+    border: 1.5px solid;
+    border-radius: 17px;
+}
+.lolo{
+    width: 90%;
+    margin-left: 50px;
+}
